@@ -4,7 +4,7 @@
 - [Keyur](https://github.com/keyurchotaliyaa)
 - [Karnapu Sravanthi](https://github.com/Sravanthi285)
 - [Umate-Express](https://github.com/Umate-Express)
-- [Mohammed Saqib](https://github.com/saqib777)  
+- [Mohammed-Saqib](https://github.com/saqib777)  
 - [Aziz Muntasir](https://github.com/muntasir24)
 - [Sashank Bandi] (https://github.com/SashankB160)
 - [Anvarbek Kuvandikov](https://github.com/kuvandikov)
